@@ -1,4 +1,4 @@
-# **UAproject**
+# **UAproject** (ReadOnly)
 These are the projects I was responsible for when I was in University of Alberta, summer 2022. 
 The projects this folder include are:
 
